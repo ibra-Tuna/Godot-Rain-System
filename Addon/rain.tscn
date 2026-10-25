@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://4pqund3nukl7"]
+
+[ext_resource type="Script" uid="uid://dt3nc4our1mgp" path="res://Addon/rain.gd" id="1_giiu7"]
+
+[node name="Rain" type="Node2D" unique_id=629142666]
+z_index = 100
+script = ExtResource("1_giiu7")
+preset = 2
+density = 3.0
+custom_direction = true
+fall_angle = 19.0
