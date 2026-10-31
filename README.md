@@ -1,5 +1,3 @@
-Here is the raw text. You can copy everything below this line and paste it directly into your `README.md` file.
-
 # 🌧️ Godot 2D Weather Particles
 
 ![Godot Version](https://img.shields.io/badge/Godot-4.3%2B-blue?logo=godot-engine)
